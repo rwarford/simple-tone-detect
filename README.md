@@ -1,8 +1,8 @@
-#Simple Tone Detector
+# Simple Tone Detector
 
 This example detects a single pure tone in an MP3 audio file.  It only processes the first channel in the audio file.
 
-#Usage
+# Usage
 
 $ ./tone-detect 440 440Hz.mp3
 Sample Rate: 44100
